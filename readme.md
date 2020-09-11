@@ -2,7 +2,7 @@
 
 
 ### Acknowledgements ###
-The initial code for this idea came from the excellent book, <b>Impractical Python Project</b> by <i>Lee Vaughan</i> and available at No Starch Press <a href="http://nostarchpress.com">Website</a>.
+The initial code for this idea came from the excellent book, <b>Impractical Python Projects</b> by <i>Lee Vaughan</i>; available at No Starch Press <a href="http://nostarchpress.com">Website</a>.
 
 ### Description ###
 
